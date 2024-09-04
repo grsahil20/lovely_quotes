@@ -1,0 +1,20 @@
+PATH
+  remote: /Users/sahil/projects/side_projects/DoobyOnDails
+  specs:
+    DoobyOnDails (0.0.1)
+      rack (~> 3.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (3.1.7)
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  DoobyOnDails!
+
+BUNDLED WITH
+   2.5.14
